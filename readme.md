@@ -1,9 +1,10 @@
 # webpack-demo
 
-An introduction to Webpack 4 for Sitepoint.
+An introduction to [Webpack 4 for Sitepoint](https://www.sitepoint.com/beginners-guide-webpack-module-bundling/).
 
 ```bash
-git clone git@github.com:markbrown4/webpack-demo.git
+git clone git@github.com:crazy4groovy/webpack4-demo.git
+
 cd webpack-demo
 npm install
 
